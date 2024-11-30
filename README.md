@@ -19,7 +19,7 @@
 
 ## **1. HyperLogLog (Big Data)**  
 ### **Explanation**  
-[Write a clear explanation of the HyperLogLog algorithm here.]  
+HyperLogLog is a probabilistic data structure that estimates the cardinality of a set. As a probabilistic data structure, HyperLogLog trades perfect accuracy for efficient space utilization.
 
 ### **Diagram/Architecture**  
 ![Insert Diagram/Architecture Here]  
